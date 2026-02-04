@@ -1,0 +1,14 @@
+name = "LibJuInt"
+uuid = "1062b60e-e2b6-4d91-9988-007d75dc44fc"
+version = "0.1.0"
+authors = ["RTChou67 <3023207450@tju.edu.cn>"]
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+LinearAlgebra = "1.12.0"
+SpecialFunctions = "2.6.1"
+Test = "1.11.0"
